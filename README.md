@@ -55,7 +55,7 @@ You have to import your chat bot from Tars by the script tag in your html index.
 
 Make sure you have the assets and images folders in order to have the animations and images on your template.
 
-<img src="https://media.giphy.com/media/4H6AbO2BF0zLXGs6Qm/giphy.gif" width="40" height="40" />
+![Alt Text]("https://media.giphy.com/media/4H6AbO2BF0zLXGs6Qm/giphy.gif")
 
 ## Contributing
 
@@ -67,7 +67,7 @@ Please make sure to update tests as appropriate.
 
 I hope you enjoyed
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+![Alt Text]("https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif")
 
 ## License
 
