@@ -3,6 +3,12 @@
 Chat Bot Netflix Tars is a chat bot that chats with you to get your opinions and make a survey about how individuals approach credit cards and their preferences.
 Accompanied by a netflix template ;)
 
+## Render
+
+Make sure you have the assets and images folders in order to have the animations and images on your template.
+
+<img src="https://media.giphy.com/media/4H6AbO2BF0zLXGs6Qm/giphy.gif" width="690" height="388" />
+
 ## Getting Started
 
 This is an example of how you can set up your project locally. To set up a local copy and get it running, follow the simple steps in this Readme. Good read.
@@ -51,11 +57,6 @@ You have to import your chat bot from Tars by the script tag in your html index.
 <script>(function(){var js,fs,d=document,id="tars-widget-script",b="https://tars-file-upload.s3.amazonaws.com/bulb/";if(!d.getElementById(id)){js=d.createElement("script");js.id=id;js.type="text/javascript";js.src=b+"js/widget.js";fs=d.getElementsByTagName("script")[0];fs.parentNode.insertBefore(js,fs)}})();window.tarsSettings = {"convid":"fpmANI"};</script>
 ```
 
-## Render
-
-Make sure you have the assets and images folders in order to have the animations and images on your template.
-
-<img src="https://media.giphy.com/media/4H6AbO2BF0zLXGs6Qm/giphy.gif" width="690" height="388" />
 
 ## Contributing
 
